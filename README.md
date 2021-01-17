@@ -1,5 +1,5 @@
 <a href="http://lainplus.tk">
-	<img src="not.png" align="right" />
+	<img src="not.png" align="top" />
 </a>
 
 ![vi's github stats](https://github-readme-stats.vercel.app/api?username=lainplus&show_icons=true&theme=tokyonight)
